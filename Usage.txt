@@ -1,0 +1,17 @@
+
+ Calculates the Length of The Given String.
+
+ Syntax: Call Getlen [String]
+ Where
+
+ String:	It is the String, Whose length to be calculated.
+
+ The length of the string is Returned in to the Main fucntion through the
+ Environmental Errorlevel variable.
+
+ Try these lines in a Batch file: [E.g.]
+
+ Call Getlen "Karan Veer Chouhan"
+ Echo. %Errorlevel%
+
+ #TheBATeam
